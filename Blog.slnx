@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Blog/Blog.csproj" />
+  <Project Path="BusinessLayer/BusinessLayer.csproj" />
+  <Project Path="CoreLayer/CoreLayer.csproj" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
+  <Project Path="EntitiyLayer/EntitiyLayer.csproj" />
+</Solution>
