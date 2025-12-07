@@ -1,0 +1,12 @@
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.sourcelink.json
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\refint\EntitiyLayer.dll
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\Projects\Blog\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
