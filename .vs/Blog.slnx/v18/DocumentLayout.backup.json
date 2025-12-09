@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81DD7CDB-540D-1AA2-709E-681A3D5865E6}|EntitiyLayer\\EntitiyLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\entitiylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DD7CDB-540D-1AA2-709E-681A3D5865E6}|EntitiyLayer\\EntitiyLayer.csproj|solutionrelative:entitiylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0239C9A6-B7D7-D33F-C2D5-F469C95A9F18}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0239C9A6-B7D7-D33F-C2D5-F469C95A9F18}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DD7CDB-540D-1AA2-709E-681A3D5865E6}|EntitiyLayer\\EntitiyLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\entitiylayer\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DD7CDB-540D-1AA2-709E-681A3D5865E6}|EntitiyLayer\\EntitiyLayer.csproj|solutionrelative:entitiylayer\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\entityframework\\efwriterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efwriterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\migrations\\20251207175431_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20251207175431_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\entityframework\\efcontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DD7CDB-540D-1AA2-709E-681A3D5865E6}|EntitiyLayer\\EntitiyLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\entitiylayer\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DD7CDB-540D-1AA2-709E-681A3D5865E6}|EntitiyLayer\\EntitiyLayer.csproj|solutionrelative:entitiylayer\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\entityframework\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\migrations\\20251207174919_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20251207174919_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\entityframework\\efaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\migrations\\20251207172917_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20251207172917_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\entityframework\\efblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABFC4E14-AC88-2F69-CBB4-A13C8A00B3B3}|Blog\\Blog.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\blog\\blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ABFC4E14-AC88-2F69-CBB4-A13C8A00B3B3}|Blog\\Blog.csproj|solutionrelative:blog\\blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\projects\\blog\\dataaccesslayer\\entityframework\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20251207175431_mig3.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\Migrations\\20251207175431_mig3.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20251207175431_mig3.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\Migrations\\20251207175431_mig3.cs",
-              "RelativeToolTip": "DataAccessLayer\\Migrations\\20251207175431_mig3.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:54:31.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\EntitiyLayer\\Concrete\\Comment.cs",
-              "RelativeDocumentMoniker": "EntitiyLayer\\Concrete\\Comment.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\EntitiyLayer\\Concrete\\Comment.cs",
-              "RelativeToolTip": "EntitiyLayer\\Concrete\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:52:56.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20251207174919_mig2.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\Migrations\\20251207174919_mig2.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20251207174919_mig2.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\Migrations\\20251207174919_mig2.cs",
-              "RelativeToolTip": "DataAccessLayer\\Migrations\\20251207174919_mig2.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:49:20.044Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\EntitiyLayer\\Concrete\\Blog.cs",
-              "RelativeDocumentMoniker": "EntitiyLayer\\Concrete\\Blog.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\EntitiyLayer\\Concrete\\Blog.cs",
-              "RelativeToolTip": "EntitiyLayer\\Concrete\\Blog.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:47:50.174Z",
+              "WhenOpened": "2025-12-09T19:35:47.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\EntitiyLayer\\Concrete\\Category.cs",
-              "RelativeDocumentMoniker": "EntitiyLayer\\Concrete\\Category.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\EntitiyLayer\\Concrete\\Category.cs",
-              "RelativeToolTip": "EntitiyLayer\\Concrete\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Title": "EfWriterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfWriterRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfWriterRepository.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfWriterRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfWriterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:46:31.22Z"
+              "WhenOpened": "2025-12-07T23:08:28.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfContactRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfContactRepository.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfContactRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:07:35.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfCommentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfCommentRepository.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfCommentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfCommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:06:45.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfAboutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfAboutRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfAboutRepository.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfAboutRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfAboutRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:04:09.684Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20251207172917_mig1.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\Migrations\\20251207172917_mig1.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20251207172917_mig1.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\Migrations\\20251207172917_mig1.cs",
-              "RelativeToolTip": "DataAccessLayer\\Migrations\\20251207172917_mig1.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAmwIYAAAACAAAAAAAAAA==",
+              "Title": "EfBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:29:18.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Blog.csproj",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\Blog\\Blog.csproj",
-              "RelativeDocumentMoniker": "Blog\\Blog.csproj",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\Blog\\Blog.csproj",
-              "RelativeToolTip": "Blog\\Blog.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-07T17:25:57.502Z"
+              "WhenOpened": "2025-12-07T22:53:42.806Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAFAAAAAAAAAA==",
+              "Title": "EfCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Blog\\DataAccessLayer\\EntityFramework\\EfCategoryRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:14:05.322Z"
+              "WhenOpened": "2025-12-07T22:50:36.969Z"
             }
           ]
         }
